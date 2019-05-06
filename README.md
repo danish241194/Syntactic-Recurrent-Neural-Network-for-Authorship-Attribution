@@ -1,5 +1,5 @@
 # Syntactic Recurrent Neural Network for Authorship Attribution
-
+By : Danish MUkhtar ( M.Tech IIIT Hyderabad)
 <!-- vim-markdown-toc -->
 
 ## Introduction
