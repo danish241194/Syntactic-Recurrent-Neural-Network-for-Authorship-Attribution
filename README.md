@@ -1,4 +1,4 @@
-# AUTHORSHIP ATTRIBUTION
+# Syntactic Recurrent Neural Network for Authorship Attribution
 
 <!-- vim-markdown-toc -->
 
@@ -155,7 +155,5 @@ for hindi one this is incomplete .Majority of times it assigns
 UNK i.e., UNKNOWN POS TAG for the word.Hence finds
 difficult to learn.
 
-### Acknowledgement
 
-* The above work is contributed by myself, Sivangi Singh, Monu Tayal and Girdhari LAl Gupta .
 
